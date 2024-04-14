@@ -1,0 +1,2 @@
+# weirdle
+wordle practice
